@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Prod Welcome to anuignite related to s4"
+  contactDetails:
+    name: "Anuragini"
+    email: "anu@tcs.com"
+  onCallSupport:
+    -9621728942
+    -9305413958
